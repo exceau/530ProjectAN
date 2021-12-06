@@ -1,0 +1,12 @@
+.home1 {
+
+
+    background-image: url("https://images4.alphacoders.com/109/1099190.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.home1 img {
+   
+    border: 3px solid white;
+  }
