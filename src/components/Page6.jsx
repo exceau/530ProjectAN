@@ -27,20 +27,20 @@ function Page6() {
             <p>
             Information References:
             <ul>
-                <li>https://www.javatpoint.com/pros-and-cons-of-react</li>
-                <li>https://www.mindinventory.com/blog/pros-and-cons-of-node-js-web-app-development/</li>
-                <li>https://alven.co/keymetrics-raised-2-million-become-open-source-leader-node-js-application-monitoring/</li>
-                <li>https://ddi-dev.com/blog/programming/pros-and-cons-reactjs-web-app-development/</li>
+                <li><a href="https://www.javatpoint.com/pros-and-cons-of-react"></a></li>
+                <li><a href="https://www.mindinventory.com/blog/pros-and-cons-of-node-js-web-app-development/"></a></li>
+                <li><a href="https://alven.co/keymetrics-raised-2-million-become-open-source-leader-node-js-application-monitoring/"></a></li>
+                <li><a href="https://ddi-dev.com/blog/programming/pros-and-cons-reactjs-web-app-development/"></a></li>
                 <p>
                   Embedding Videos onto Your React Page:
                   <ul>
-                     <li>https://stackoverflow.com/questions/63667396/youtube-embed-in-react-controls-play-onclick</li>
+                     <li><a href="https://stackoverflow.com/questions/63667396/youtube-embed-in-react-controls-play-onclick"></a></li>
                   </ul> 
                 </p>
                 <p>
                   Deploying Your React and Node app on Heroku:
                   <ul>
-                     <li>https://dev.to/divofred/deploy-a-react-and-node-app-to-heroku-cgk</li>
+                     <li><a href="https://dev.to/divofred/deploy-a-react-and-node-app-to-heroku-cgk"></a></li>
                   </ul> 
                 </p>
             </ul> 
@@ -48,21 +48,21 @@ function Page6() {
             <p>
             Demo References:
             <ul>
-                <li>https://genshin.mihoyo.com/en/game</li>
+                <li><a href="https://genshin.mihoyo.com/en/game"></a></li>
                 
             </ul> 
             </p>
             <p>
             Tutorial for creating react app website:
             <ul>
-                <li>https://www.youtube.com/watch?v=hjR-ZveXBpQ</li>
+                <li><a href="https://www.youtube.com/watch?v=hjR-ZveXBpQ"></a></li>
                 
             </ul> 
             </p>
             <p>
             Project Source Code on my GitHub:
             <ul>
-                <li>https://github.com/exceau/530ProjectAN</li>
+                <li><a href="https://github.com/exceau/530ProjectAN"></a></li>
                 
             </ul> 
             </p>
